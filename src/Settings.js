@@ -27,7 +27,7 @@ class Settings extends React.Component {
 
           <img
           style={styles.image}
-          src="https://cdn-icons.flaticon.com/png/128/2880/premium/2880986.png?token=exp=1657811504~hmac=22479b7d2d0d1d0805a0211c908bc875"
+          src="https://cdn-icons-png.flaticon.com/512/900/900797.png"
           alt="settings"/>
         </div>
       </div>
